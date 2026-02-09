@@ -4,8 +4,8 @@ Official implementation of the paper "Learning Cross-View Geometric Consistency 
 
 ## 🔨 Requirement
 ```bash
-conda create -n ReplayCAD python==3.8.19
-conda activate ReplayCAD
+conda create -n GSANet python==3.8.19
+conda activate GSANet
 pip install -r requirements.txt
 ```
 
