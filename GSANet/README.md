@@ -1,5 +1,5 @@
 # Learning Cross-View Geometric Consistency for Industrial Anomaly Detection
-Official implementation of the paper "Learning Cross-View Geometric Consistency for Industrial Anomaly Detection" (Submitted to EAAI 2026).
+Official implementation of the paper "Learning Cross-View Geometric Consistency for Industrial Anomaly Detection" (Submitted to PR 2026).
 
 
 ## 🔨 Requirement
