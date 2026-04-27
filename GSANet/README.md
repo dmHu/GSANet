@@ -28,7 +28,7 @@ CUDA_VISIBLE_DEVICES=0 python run.py -c configs/gsanet.py -m train
 ## 🍔 Test
 
 ```bash
-CUDA_VISIBLE_DEVICES=0 python run.py -c configs/gsanet.py -m test 
+CUDA_VISIBLE_DEVICES=0 python run.py -c configs/gsanet.py -m test model.kwargs.checkpoint_path=log/gsanet.pth
 ```
 
 ## ❤️ Acknowledgements
